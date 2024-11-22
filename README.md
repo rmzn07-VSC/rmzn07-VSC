@@ -31,4 +31,4 @@
 * **Kariyer Gelişimi:** Kendimi sürekli geliştirerek sektörde daha üst pozisyonlara gelmek istiyorum.
 
 
-     ![MasterHead](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
+![MasterHead](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
